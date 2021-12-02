@@ -1,4 +1,4 @@
-PRIVACY POLICY
+PRIVACY POLICY '
 
 Giacomo Barbieri built the Beyond Idle app as an Ad Supported app. This SERVICE is provided by Giacomo Barbieri at no cost and is intended for use as is.
 
