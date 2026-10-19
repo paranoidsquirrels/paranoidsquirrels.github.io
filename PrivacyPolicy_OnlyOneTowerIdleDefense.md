@@ -1,57 +1,63 @@
 PRIVACY POLICY
 
-Giacomo Barbieri built the Only One Tower - Idle Defense app as an Ad Supported app. This SERVICE is provided by Giacomo Barbieri at no cost and is intended for use as is.
+Only One Tower: Idle Defense (the "App") is a free-to-play game for Android and iOS, supported by ads and optional in-app purchases, developed by Giacomo Barbieri (Paranoid Squirrels), Italy. This page explains what information is processed when you use the App, by whom, and what choices you have.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+I do not run any server for the App, and the App does not ask for your name, email address, contacts, photos or precise location. Apart from the usage statistics described under Analytics, which I receive through Google Analytics, I do not receive any information about you. The rest of the information described below is processed directly by the third-party services built into the App, under their own privacy policies.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Information Processed by the App
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible here unless otherwise defined in this Privacy Policy.
+Game progress. Your progress and settings are stored on your device. If you are signed in to Google Play Games (Android) or iCloud (iOS), a copy of your progress is also saved there automatically. Achievements are recorded by Google Play Games (Android) or Game Center (iOS). I have no access to these accounts.
 
-Information Collection and Use
+Purchases. In-app purchases are handled entirely by Google Play (Android) or the App Store (iOS). I never receive your payment details: the App only receives the confirmation it needs to deliver what you bought.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+Advertising. The App shows ads served by Google AdMob. To deliver, limit, measure and (if you allow it) personalize ads, and to prevent fraud, AdMob may collect your device's advertising identifier, your IP address (from which an approximate location can be derived), information about your device and the App, and information about the ads you see and tap.
 
-The app does use third party services that may collect information used to identify you.
+Analytics (Android only). The Android version uses Google Analytics for Firebase, which automatically collects usage events (such as app opens, session duration, in-app purchases and ad impressions), the source of the install, device information, an app instance identifier, an approximate location and, if you consent, your advertising identifier. I use this information, in aggregated form, to understand how the game is used and to measure the results of my advertising campaigns on Google Ads.
 
-Link to privacy policy of third party service providers used by the app
+Time check. To verify the device clock, which the game's timers and offline progress depend on, the App queries public time servers (Cloudflare, Alibaba Cloud, Google and pool.ntp.org). These requests contain no information about you, but like any internet connection they reveal your IP address to the server.
 
-Google Play Services: https://policies.google.com/privacy
+Your Choices
 
-AdMob: https://support.google.com/admob/answer/6128543?hl=en
+If you are in the European Economic Area, the United Kingdom or Switzerland, the App asks for your consent with Google's consent form before your data is used for personalized ads or analytics. To change or withdraw your consent later, clear the App's data or reinstall it (save to the cloud first to keep your progress): the consent form is shown again at the next launch.
 
-Google Analytics for Firebase: https://firebase.google.com/policies/analytics
+On Android, you can reset or delete your advertising ID from your device settings (usually Settings > Privacy > Ads, or Settings > Google > Ads).
 
-Firebase Crashlytics: https://firebase.google.com/support/privacy/
+On iOS, you can stop apps from using your advertising identifier in Settings > Privacy & Security > Tracking (on iOS 14.4 and earlier: Settings > Privacy > Advertising > Limit Ad Tracking).
 
-Cookies
+Third-Party Services
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+The following services process data under their own privacy policies, which bind them to protect it at least as well as described here:
 
-This Service does not use these "cookies" explicitly. However, the app may use third party code and libraries that use "cookies" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Google AdMob and Google User Messaging Platform (Android and iOS): https://policies.google.com/privacy
 
-Service Providers
+How Google uses information from apps that use its services: https://policies.google.com/technologies/partner-sites
 
-I may employ third-party companies and individuals due to the following reasons:
+Google Analytics for Firebase, Google Play Services and Google Play Games (Android only): https://policies.google.com/privacy
 
-To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used. I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Apple Game Center, iCloud and App Store (iOS only): https://www.apple.com/legal/privacy/en-ww/
+
+Data Retention and Deletion
+
+Data on your device is deleted when you uninstall the App or clear its data. Cloud saves and achievements remain in your Google Play Games or Apple account until you delete them from those services. Analytics data is kept for the retention period set in Google Analytics and then deleted automatically; data collected by Google is otherwise kept and deleted according to Google's policies linked above. For any request about your data, including deletion, contact me at the address below and I will handle it directly or with the relevant provider.
 
 Security
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Apart from the analytics described above, the App does not send any of your data to me. The services listed above protect the data they process with industry-standard measures, but no method of transmission over the internet or of electronic storage is 100% secure.
 
 Links to Other Sites
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The App contains links to external websites, such as the game's Reddit community. These sites are not operated by me and have their own privacy policies, which I encourage you to review.
 
 Children's Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+The App is not directed at children under 13, and I do not knowingly collect personal information from them. If you are a parent or guardian and believe your child has provided personal information through the App, contact me and I will help you have it removed.
 
 Changes to This Privacy Policy
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+I may update this Privacy Policy from time to time. Changes are published on this page, and the effective date below is updated accordingly.
 
-This policy is effective as of 2026-05-05
+This policy is effective as of 2026-10-19.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at beyond.idle.incremental+1@gmail.com
+Contact
+
+For any question or request about this Privacy Policy, contact me at beyond.idle.incremental+1@gmail.com
